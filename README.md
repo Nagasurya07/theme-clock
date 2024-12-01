@@ -6,9 +6,7 @@ A simple theme clock that displays the current time and date with a dark mode to
 
 - Displays current time with hour, minute, and second hands.
 - Shows the current date.
-## Usage
-1. Clone the repository.
-2. Open `index.html` in your browser.
+
 
 ## Files
 
