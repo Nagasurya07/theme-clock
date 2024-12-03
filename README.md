@@ -15,7 +15,7 @@ A simple theme clock that displays the current time and date with a dark mode to
 - `script.js`: The JavaScript file that handles the clock functionality and dark mode toggle.
 
 
-Inspired
+
 ## License
 
 This project is licensed under the MIT License.
