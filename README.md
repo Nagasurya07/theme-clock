@@ -1,6 +1,6 @@
 # Theme Clock
 
-A simple theme clock that displays the current time and date with a dark mode toggle.
+It is a simple theme clock that displays the current time and date with a dark mode toggle.
 
 ## Features
 
